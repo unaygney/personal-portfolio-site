@@ -1,12 +1,17 @@
-import React from 'react'
-import Header from '../Header'
+import React, { useState } from "react";
+import Header from "../Header";
+import MainContent from "../MainContent";
 
-function MainPage() {
+function MainPage({ ...Data }) {
+  const [language, setLanguage] = useState("tr");
+  const selectedLanguageData = Data[language];
+
   return (
     <>
-      <Header />
+      <Header language={language} setLanguage={setLanguage} />
+      <MainContent selectedLanguageData={selectedLanguageData} />
     </>
-  )
+  );
 }
 
-export default MainPage
+export default MainPage;

@@ -1,0 +1,39 @@
+{
+    "tr": {
+      "hakkinda": "Selam ben Güney Unay",
+      "aciklama": "Merhaba! Ben, ön yüz geliştirme alanında projeler üzerinde çalışan bir web geliştiriciyim. İletişime geçmek için example@hotmail.com adresini kullanabilirsiniz.",
+      "projeler": [
+        {
+          "projeAdi": "Proje 1",
+          "projeAciklamasi": "Proje 1 açıklaması Türkçe",
+          "kullanilanTeknolojiler": "Teknolojiler Türkçe",
+          "kaynakKodLinki": "Proje 1 Kaynak Kod Linki Türkçe"
+        },
+        {
+          "projeAdi": "Proje 2",
+          "projeAciklamasi": "Proje 2 açıklaması Türkçe",
+          "kullanilanTeknolojiler": "Teknolojiler Türkçe",
+          "kaynakKodLinki": "Proje 2 Kaynak Kod Linki Türkçe"
+        }
+      ]
+    },
+    "en": {
+      "hakkinda": "Hello, I'm Güney Unay",
+      "aciklama": "Hello! I'm a web developer working on projects in the front-end development field. You can contact me using the email address example@hotmail.com.",
+      "projeler": [
+        {
+          "projeAdi": "Project 1",
+          "projeAciklamasi": "Project 1 description in English",
+          "kullanilanTeknolojiler": "Technologies in English",
+          "kaynakKodLinki": "Project 1 Source Code Link in English"
+        },
+        {
+          "projeAdi": "Project 2",
+          "projeAciklamasi": "Project 2 description in English",
+          "kullanilanTeknolojiler": "Technologies in English",
+          "kaynakKodLinki": "Project 2 Source Code Link in English"
+        }
+      ]
+    }
+  }
+  
