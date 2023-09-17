@@ -1,10 +1,11 @@
 import React from "react";
+import GithubImg from "../../../../public/Github.svg";
 
 function Projects({ selectedLanguageData, language }) {
   const projects = selectedLanguageData.projeler;
   console.log(projects);
   return (
-    <div className="flex flex-col relative mt-14 ">
+    <div className="flex flex-col  relative mt-14 px-5 ">
       <h3 className="text-5xl font-bold text-white mb-7">
         {language === "tr" ? "Projeler" : "Projects"}
       </h3>
@@ -12,11 +13,43 @@ function Projects({ selectedLanguageData, language }) {
         {language === "tr" ? "Projeler" : "Projects"}
       </h3>
 
-      <div className="flex flex-wrap gap-5 justify-center md:justify-start ">
+      <div className="flex flex-wrap   gap-5  justify-center md:justify-start ">
         {projects.map((project) => (
-          <article className="w-[300px] h-[400px] h border-2 border-solid border-red-600" key={project.id}>
-            {project.projeAdi}
-          </article>
+          <>
+            <article
+              className=" w-full lg:w-[30%] flex flex-col p-4 transition-all duration-500 ease-out  hover:bg-[#f8f8f222] hover:rounded-lg"
+              key={project.id}
+            >
+              <a target="_blank" rel="noopener noreferrer" href={project.demo}>
+                <div className=" h-[224px] rounded-md overflow-hidden">
+                  <img
+                    className="w-full h-full object-fill"
+                    src={project.image}
+                    alt=""
+                  />
+                </div>
+                <div className="flex flex-col  gap-2 mt-2">
+                  <h3 className="font-bold text-2xl tracking-tighter mb-1  lg:truncate  ">
+                    {project.projeAdi}
+                  </h3>
+                  <h4 className="text-orange-300 text-sm font-medium">
+                    {project.kullanilanTeknolojiler}
+                  </h4>
+                  <p className="text-zinc-400">{project.projeAciklamasi}</p>
+
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline inline-flex gap-2 text-zinc-400 font-bold  "
+                    href={project.kaynakKodLinki}
+                  >
+                    <img src={GithubImg} alt="" />{" "}
+                    {language === "tr" ? "Kaynak Kodu" : "Source Code"}
+                  </a>
+                </div>
+              </a>
+            </article>
+          </>
         ))}
       </div>
     </div>

@@ -8,7 +8,7 @@ function Header({ language, setLanguage }) {
   };
 
   return (
-    <header className="flex justify-between items-center mt-5 py-4">
+    <header className="flex justify-between items-center mt-5 py-4 px-5">
       <a className="text-4xl font-bold" href="/">
       &lt;unay /&gt;
       </a>

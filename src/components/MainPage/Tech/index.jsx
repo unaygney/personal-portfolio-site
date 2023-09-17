@@ -3,7 +3,7 @@ import { Icons } from "./constants";
 
 function Tech({ language }) {
   return (
-    <div className="relative mt-12">
+    <div className="relative mt-12 px-5">
       <h3 className="text-5xl font-bold text-white  ">
         {language === "tr"
           ? "Kullandığım Teknolojiler {...}"
