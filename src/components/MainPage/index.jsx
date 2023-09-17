@@ -11,8 +11,7 @@ function MainPage({ ...Data }) {
     <>
       <Header language={language} setLanguage={setLanguage} />
       <MainContent selectedLanguageData={selectedLanguageData} />
-
-      <Tech />
+      <Tech language={language} />
     </>
   );
 }
