@@ -1,7 +1,7 @@
 import React from "react";
-import Button from "../Button";
-import Tr from "../../assets/tr.svg";
-import Eng from "../../assets/eng.svg";
+import Button from "../../Button";
+import Tr from "../../../assets/tr.svg";
+import Eng from "../../../assets/eng.svg";
 function Header({ language, setLanguage }) {
   const handleChange = () => {
     setLanguage(language === "tr" ? "en" : "tr");
@@ -10,7 +10,7 @@ function Header({ language, setLanguage }) {
   return (
     <header className="flex justify-between items-center mt-5 py-4">
       <a className="text-4xl font-bold" href="/">
-         &lt;unay /&gt;
+      &lt;unay /&gt;
       </a>
 
       <nav>
