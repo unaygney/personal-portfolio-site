@@ -9,7 +9,7 @@ function Tech({ language }) {
           ? "Kullandığım Teknolojiler {...}"
           : "Technologies I Use {...}"}
       </h3>
-      <h3 className="absolute font-bold text-6xl whitespace-nowrap blur-[2px] -top-7 -left-6 opacity-10 ">
+      <h3 className="absolute font-bold text-6xl  blur-[2px] -top-7 -left-6 opacity-10 ">
         {language === "tr"
           ? "Kullandığım Teknolojiler {...}"
           : "Technologies I Use {...}"}

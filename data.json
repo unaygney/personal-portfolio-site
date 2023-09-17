@@ -4,17 +4,69 @@
       "aciklama": "Merhaba! Ben, ön yüz geliştirme alanında projeler üzerinde çalışan bir web geliştiriciyim. İletişime geçmek için example@hotmail.com adresini kullanabilirsiniz.",
       "projeler": [
         {
-          "projeAdi": "Proje 1",
-          "projeAciklamasi": "Proje 1 açıklaması Türkçe",
-          "kullanilanTeknolojiler": "Teknolojiler Türkçe",
-          "kaynakKodLinki": "Proje 1 Kaynak Kod Linki Türkçe"
+          "id" : 1,
+          "projeAdi": "Renk Teması Degiştirmeli Rest Ülkeler uygulaması.",
+          "projeAciklamasi": "Tüm ülkeler hakkında kısa bilgiler edinebileceğin uygulama.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/rest-countries-app"
         },
         {
-          "projeAdi": "Proje 2",
-          "projeAciklamasi": "Proje 2 açıklaması Türkçe",
-          "kullanilanTeknolojiler": "Teknolojiler Türkçe",
-          "kaynakKodLinki": "Proje 2 Kaynak Kod Linki Türkçe"
+          "id":2,
+          "projeAdi": "Link Kısaltma sitesi",
+          "projeAciklamasi": "Linkleri kısaltmak için kullanabilecegin bir site.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/url-short-api-landing-page"
+        },
+        {
+          "id":3,
+          "projeAdi": "Yapılıcaklar Listesi Uygulaması",
+          "projeAciklamasi": "Basitce görevler olusturup yönetmeni saglayan uygulama.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/todo-app-with-react/tree/main/todo-app-with-react"
+        },
+        {
+          "id":4,
+          "projeAdi": "Ip adresi izleme uygulaması.",
+          "projeAciklamasi": "Girilen ip adresi hakkında bilgi ve konum veren bir uygulama.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/ip-adress-tracker-app"
+        },
+        {
+          "id":5,
+          "projeAdi": "Şifre oluşturucu.",
+          "projeAciklamasi": "İstediginiz formatta şifre olusturma uygulaması",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://www.frontendmentor.io/solutions/password-generator-app-with-sass-and-reactjs-nAYAgfZoyT"
+        },
+        {
+          "id":6,
+          "projeAdi": "Github kullanıcı bulma uygulaması.",
+          "projeAciklamasi": "Github kullanıcı adına göre kullanıcının bilgilerine ulasma uygulaması.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/githubUserApp"
+        },
+        {
+          "id":7,
+          "projeAdi": "Ayakkabı Satış Sitesi",
+          "projeAciklamasi": "Bir e ticaret sitesinin satış ekranı klonu.",
+          "kullanilanTeknolojiler": "HTML , CSS , Tailwind , React",
+          "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page"
+        },
+        {
+          "id":8,
+          "projeAdi": "Kişisel Portfolyo Sitesi Örnegi",
+          "projeAciklamasi": "Bir web geliştiricisi için kişisel portfolio sitesi örnegi.",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page"
+        },
+        {
+          "id":9,
+          "projeAdi": "Çok adımlı form uygulaması",
+          "projeAciklamasi": "Çok adımlı bir form kayıt uygulaması",
+          "kullanilanTeknolojiler": "HTML , CSS , Sass , React",
+          "kaynakKodLinki": "https://github.com/unaygney/multi-step-form"
         }
+
       ]
     },
     "en": {
@@ -22,16 +74,67 @@
       "aciklama": "Hello! I'm a web developer working on projects in the front-end development field. You can contact me using the email address example@hotmail.com.",
       "projeler": [
         {
-          "projeAdi": "Project 1",
-          "projeAciklamasi": "Project 1 description in English",
-          "kullanilanTeknolojiler": "Technologies in English",
-          "kaynakKodLinki": "Project 1 Source Code Link in English"
+          "id":1,
+          "projeAdi": "Color Theme Switcher for REST Countries API",
+          "projeAciklamasi": "An application where you can get brief information about all countries.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/rest-countries-app"
         },
         {
-          "projeAdi": "Project 2",
-          "projeAciklamasi": "Project 2 description in English",
-          "kullanilanTeknolojiler": "Technologies in English",
-          "kaynakKodLinki": "Project 2 Source Code Link in English"
+          "id":2,
+          "projeAdi": "Link Shortening Website",
+          "projeAciklamasi": "A website for shortening links.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/url-short-api-landing-page"
+        },
+        {
+          "id":3,
+          "projeAdi": "To-Do List Application",
+          "projeAciklamasi": "An application for creating and managing tasks.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/todo-app-with-react/tree/main/todo-app-with-react"
+        },
+        {
+          "id":4,
+          "projeAdi": "IP Address Tracking Application",
+          "projeAciklamasi": "An application that provides information and location about a given IP address.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/ip-adress-tracker-app"
+        },
+        {
+          "id":5,
+          "projeAdi": "Password Generator",
+          "projeAciklamasi": "An application for generating passwords in your desired format.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://www.frontendmentor.io/solutions/password-generator-app-with-sass-and-reactjs-nAYAgfZoyT"
+        },
+        {
+          "id":6,
+          "projeAdi": "Github User Finder",
+          "projeAciklamasi": "An application for finding user information on Github based on their username.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/githubUserApp"
+        },
+        {
+          "id":7,
+          "projeAdi": "Shoe Sales Website",
+          "projeAciklamasi": "A clone of the sales page of an e-commerce website.",
+          "kullanilanTeknolojiler": "HTML, CSS, Tailwind, React",
+          "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page"
+        },
+        {
+          "id":8,
+          "projeAdi": "Personal Portfolio Website Example",
+          "projeAciklamasi": "An example of a personal portfolio website for a web developer.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page"
+        },
+        { 
+          "id":9,
+          "projeAdi": "Multi-Step Form Application",
+          "projeAciklamasi": "A multi-step form registration application.",
+          "kullanilanTeknolojiler": "HTML, CSS, Sass, React",
+          "kaynakKodLinki": "https://github.com/unaygney/multi-step-form"
         }
       ]
     }
