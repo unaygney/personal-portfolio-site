@@ -10,7 +10,7 @@ function Footer() {
 
       <div className="flex gap-5">
         {Links.map((link) => (
-          <a key={link.id}  href={link.links}>
+          <a key={link.id}  href={link.links} target={link.target} >
             <link.icon  />
           </a>
         ))}
