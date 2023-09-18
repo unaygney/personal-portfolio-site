@@ -1,7 +1,7 @@
 {
     "tr": {
       "hakkinda": "Selam ben Güney Unay",
-      "aciklama": "Merhaba! Ben, ön yüz geliştirme alanında projeler üzerinde çalışan bir web geliştiriciyim. İletişime geçmek için example@hotmail.com adresini kullanabilirsiniz.",
+      "aciklama": "Merhaba! Ben, ön yüz geliştirme alanında projeler üzerinde çalışan bir web geliştiriciyim. İletişime geçmek için unaygney17@gmail.com adresini kullanabilirsiniz.",
       "projeler": [
         {
           "id" : 1,
@@ -90,7 +90,7 @@
     },
     "en": {
       "hakkinda": "Hello, I'm Guney Unay",
-      "aciklama": "Hello! I'm a web developer working on projects in the front-end development field. You can contact me using the email address example@hotmail.com.",
+      "aciklama": "Hello! I'm a web developer working on projects in the front-end development field. You can contact me using the email address unaygney17@gmail.com.",
       "projeler": [
         {
           "id":1,
