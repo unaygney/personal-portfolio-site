@@ -1,12 +1,13 @@
 import React from "react";
-import GithubImg from "../../../../public/Github.svg";
+import GithubImg from "../../../assets/Github.svg";
+import 'animate.css';
 
 function Projects({ selectedLanguageData, language }) {
   const projects = selectedLanguageData.projeler;
 
   return (
-    <div className="flex flex-col  relative mt-14 px-5 ">
-      <h3 className="text-5xl font-bold text-white mb-7">
+    <div className="flex flex-col  relative mt-14 px-5 animate__animated animate__fadeIn  ">
+      <h3 className="text-5xl font-bold text-white mb-7 ">
         {language === "tr" ? "Projeler" : "Projects"}
       </h3>
       <h3 className="absolute font-bold text-6xl whitespace-nowrap blur-[2px] -top-7 -left-6 opacity-10 ">
