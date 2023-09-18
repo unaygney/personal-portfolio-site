@@ -1,10 +1,10 @@
 //Svg
-import HtmlIcon from "../../../assets/html-icon.svg";
-import CssIcon from "../../../assets/css-icon.svg";
-import JavasIcon from "../../../assets/javascript-icon.svg";
-import SassIcon from "../../../assets/sass-icon.svg";
-import TailwindIcon from "../../../assets/tailwind-icon.svg";
-import ReactIcon from "../../../assets/react-icon.svg";
+import HtmlIcon from "/html-icon.svg";
+import CssIcon from "/css-icon.svg";
+import JavasIcon from "/javascript-icon.svg";
+import SassIcon from "/sass-icon.svg";
+import TailwindIcon from "/tailwind-icon.svg";
+import ReactIcon from "/react-icon.svg";
 
 export const Icons = [
     {
