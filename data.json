@@ -15,7 +15,7 @@
         {
           "id":2,
           "projeAdi": "Link Kısaltma sitesi",
-          "projeAciklamasi": "Linkleri kısaltmak için kullanabilecegin bir site.",
+          "projeAciklamasi": "Linkleri kısaltmak için kullanabileceğin bir site.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/url-short-api-landing-page",
           "demo":"https://64e2252611201169a32796eb--boisterous-narwhal-d479ec.netlify.app/",
@@ -25,7 +25,7 @@
         {
           "id":3,
           "projeAdi": "Yapılıcaklar Listesi Uygulaması",
-          "projeAciklamasi": "Basitce görevler olusturup yönetmeni saglayan uygulama.",
+          "projeAciklamasi": "Basitçe görevler oluşturup yönetmeni sağlayan bir uygulama.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/todo-app-with-react/tree/main/todo-app-with-react",
           "demo":"https://warm-bunny-5f9aad.netlify.app/",
@@ -34,7 +34,7 @@
         {
           "id":4,
           "projeAdi": "Ip adresi izleme uygulaması",
-          "projeAciklamasi": "Girilen ip adresi hakkında bilgi ve konum veren bir uygulama.",
+          "projeAciklamasi": "Girilen ip adresi hakkında konum ve bilgi veren bir uygulama.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/ip-adress-tracker-app",
           "demo":"https://delicate-sorbet-450bd6.netlify.app/",
@@ -43,7 +43,7 @@
         {
           "id":5,
           "projeAdi": "Şifre oluşturucu",
-          "projeAciklamasi": "İstediginiz formatta şifre olusturma uygulaması.",
+          "projeAciklamasi": "İstediğiniz bir formatta şifre olusturma uygulaması.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/password-generator-app",
           "demo":"https://64ea3d80c2bf4d5f01bc5d2a--vocal-dusk-d58598.netlify.app/",
@@ -52,7 +52,7 @@
         {
           "id":6,
           "projeAdi": "Github kullanıcı bulma uygulaması",
-          "projeAciklamasi": "Github kullanıcı adına göre kullanıcının bilgilerine ulasma uygulaması.",
+          "projeAciklamasi": "Github kullanıcı adına göre kullanıcının bilgilerine ulaşma uygulaması.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/githubUserApp",
           "demo":"https://github-app-guney.netlify.app/",
@@ -61,7 +61,7 @@
         {
           "id":7,
           "projeAdi": "Ayakkabı Satış Sitesi",
-          "projeAciklamasi": "Bir e ticaret sitesinin satış ekranı klonu.",
+          "projeAciklamasi": "Bir e-ticaret sitesinin satış ekranı klonu.",
           "kullanilanTeknolojiler": "HTML - CSS - Tailwind - React",
           "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page",
           "demo":"https://6500a0d0119c481bcc42f24c--frolicking-biscuit-8b7c2d.netlify.app/",
@@ -69,8 +69,8 @@
         },
         {
           "id":8,
-          "projeAdi": "Kişisel Portfolyo Sitesi Örnegi",
-          "projeAciklamasi": "Bir web geliştiricisi için kişisel portfolio sitesi örnegi.",
+          "projeAdi": "Kişisel Portfolyo Sitesi Örneği",
+          "projeAciklamasi": "Bir web geliştiricisi için kişisel portfolio sitesi örneği.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/ecommerce-product-page",
           "demo":"https://64d658b48e0cde7dc5aa228b--unrivaled-profiterole-fd5824.netlify.app/",
@@ -79,7 +79,7 @@
         {
           "id":9,
           "projeAdi": "Çok adımlı form uygulaması",
-          "projeAciklamasi": "Çok adımlı bir form kayıt uygulaması.",
+          "projeAciklamasi": "Çok adımlı bir form kayıt uygulaması örneği.",
           "kullanilanTeknolojiler": "HTML - CSS - Sass - React",
           "kaynakKodLinki": "https://github.com/unaygney/multi-step-form",
           "demo":"https://64fc45c4860af04769867ae6--warm-torrone-b97c9d.netlify.app/",
